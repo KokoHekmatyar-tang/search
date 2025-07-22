@@ -75,7 +75,7 @@
     3. 注册器模式
 
 12. 前端搜索接口调用优化
-13. 从 0 开始学习 Elastic Stack
+13. Elastic Stack
     1. Elasticsearch 概念及倒排索引原理
     2. Elasticsearch / Kibana 安装
     3. Elasticsearch + Kibana Dev Tools 入门实践
